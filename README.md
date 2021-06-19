@@ -4,4 +4,4 @@ Mobile First. Адаптивная вёрстка с использование�
 
 Используемые технологии: **HTML5**, **CSS3**, **Git**.
 
-![Mobile - Entire-Page](mobile.png)
+![Mobile - Entire-Page](mobile.jpg)
